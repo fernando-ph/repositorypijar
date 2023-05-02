@@ -1,4 +1,3 @@
-
-[Gambar contoh](images/gambar.jpg)
+(images/gambar.jpg)
 # repositorypijar
 
